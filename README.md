@@ -1,3 +1,2 @@
-# My landind page for Travel
-
-It is my land page for travel using Bootstrap 5, CSS and HTML.
+# Este es mi primer commit de medhis.dr 
+https://taller-de-multimedios.000webhostapp.com/medhis/index.html
